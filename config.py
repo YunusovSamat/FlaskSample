@@ -16,3 +16,4 @@ class Config(object):
     ADMINS = ['your-email@example.com']
     POSTS_PER_PAGE = 1
     LANGUAGES = ['en', 'ru']
+    TRANSLATOR_KEY = 'trnsl.1.1.20200407T143528Z.500adcf62b219448.4a9f8be904f078f54d3df02ff9284d880281c0ef'

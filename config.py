@@ -20,3 +20,4 @@ class Config(object):
     LANGUAGES = ['en', 'ru']
     TRANSLATOR_KEY = os.environ.get('TRANSLATOR_KEY')
     POSTS_PER_PAGE = 3
+    ELASTICSEARCH_URL = os.environ.get('ELASTICSEARCH_URL')
